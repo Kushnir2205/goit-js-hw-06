@@ -1,0 +1,7 @@
+
+.gallery-item{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 30px;
+}
